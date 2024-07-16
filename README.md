@@ -64,17 +64,17 @@ The attributes of this data set include:
 ### Summary of Findings
 ## Bar Coupons
 
-# Drivers who are regular bar goers and are socially active, as indicated by having adult passengers or being younger than 30, are more likely to accept bar coupons.
-# This tendency is stronger among those who are not widowed and have established habits and preferences for socializing at bars.
-# Older drivers with frequent bar visits may also exhibit a higher acceptance rate due to potentially higher disposable income and greater interest in bar-related activities.
-# However, lower-income drivers who frequently visit cheap restaurants show a relatively lower acceptance rate, indicating different priorities or preferences, suggesting a need for tailored marketing strategies for this demographic.
+- Drivers who are regular bar goers and are socially active, as indicated by having adult passengers or being younger than 30, are more likely to accept bar coupons.
+- This tendency is stronger among those who are not widowed and have established habits and preferences for socializing at bars.
+- Older drivers with frequent bar visits may also exhibit a higher acceptance rate due to potentially higher disposable income and greater interest in bar-related activities.
+- However, lower-income drivers who frequently visit cheap restaurants show a relatively lower acceptance rate, indicating different priorities or preferences, suggesting a need for tailored marketing strategies for this demographic.
 
 ## Coffee House Coupons
 
-# Passengers who are likely to accept Coffee House coupons tend to be younger, particularly in their early twenties (21) and mid-twenties (26), suggesting that younger individuals are more socially active and frequent coffee shops more often, making these coupons appealing to them.
-# Additionally, passengers with moderate income levels (ranging from $12500 to $49999) are more inclined to accept Coffee House coupons. This demographic finds the value proposition of coffee house discounts attractive due to their spending habits and financial priorities.
-# Moreover, passengers who are alone or with friends exhibit a higher acceptance rate of Coffee House coupons. Being alone or in the company of friends indicates a higher likelihood of making spontaneous decisions to visit coffee houses, thus increasing the acceptance rate of these coupons.
-# These observations suggest that marketing strategies should target younger, socially active individuals with moderate income levels, particularly those who drive alone or with friends, to maximize the effectiveness of Coffee House coupon distribution.
+- Passengers who are likely to accept Coffee House coupons tend to be younger, particularly in their early twenties (21) and mid-twenties (26), suggesting that younger individuals are more socially active and frequent coffee shops more often, making these coupons appealing to them.
+- Additionally, passengers with moderate income levels (ranging from $12500 to $49999) are more inclined to accept Coffee House coupons. This demographic finds the value proposition of coffee house discounts attractive due to their spending habits and financial priorities.
+- Moreover, passengers who are alone or with friends exhibit a higher acceptance rate of Coffee House coupons. Being alone or in the company of friends indicates a higher likelihood of making spontaneous decisions to visit coffee houses, thus increasing the acceptance rate of these coupons.
+- These observations suggest that marketing strategies should target younger, socially active individuals with moderate income levels, particularly those who drive alone or with friends, to maximize the effectiveness of Coffee House coupon distribution.
 
 ### Next Steps and Recommendations
 - Further analysis could be conducted on other coupon types to see if similar patterns hold.
