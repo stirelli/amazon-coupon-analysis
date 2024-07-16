@@ -5,8 +5,11 @@ This repository contains the analysis and visualization of coupon acceptance dat
 ## Table of Contents
 - [Project Description](#project-description)
 - [Context](#context)
+- [Overview](#overview)
+- [Data](#data)
+- [Deliverables](#deliverables)
 - [Data Description](#data-description)
-- [Analysis and Results](#analysis-and-results)
+- [Summary of Findings](#summary-of-findings)
 - [Next Steps and Recommendations](#next-steps-and-recommendations)
 - [Getting Started](#getting-started)
 
