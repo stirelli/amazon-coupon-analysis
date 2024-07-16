@@ -48,10 +48,14 @@ The attributes of this data set include:
    - Time before it expires: 2 hours or one day
 
 ## Summary of Findings
-- Drivers who are regular bar-goers and are socially active, as indicated by having adult passengers or being younger than 30, are more likely to accept bar coupons.
+- Drivers who are regular bar goers and are socially active, as indicated by having adult passengers or being younger than 30, are more likely to accept bar coupons.
 - This tendency is stronger among those who are not widowed and have established habits and preferences for socializing at bars.
 - Older drivers with frequent bar visits may also exhibit a higher acceptance rate due to potentially higher disposable income and greater interest in bar-related activities.
-- However, lower-income drivers who frequently visit cheap restaurants show a relatively lower acceptance rate, indicating different priorities or preferences, suggesting a need for tailored marketing strategies for this demographic.
+- However, lower income drivers who frequently visit cheap restaurants show a relatively lower acceptance rate, indicating different priorities or preferences, suggesting a need for tailored marketing strategies for this demographic.
+
+### Next Steps and Recommendations
+- Further analysis could be conducted on other coupon types to see if similar patterns hold.
+- Explore additional demographic factors that might influence coupon acceptance.
 
 ## Getting Started
 
@@ -114,8 +118,3 @@ Make sure you have Python installed on your local machine. You can download it f
     ```
 
 3. Run the cells in the notebook to see the analysis and visualizations.
-
-### Next Steps and Recommendations
-- Further analysis could be conducted on other coupon types to see if similar patterns hold.
-- Implement targeted marketing strategies based on the findings to increase coupon acceptance rates.
-- Explore additional demographic factors that might influence coupon acceptance.
