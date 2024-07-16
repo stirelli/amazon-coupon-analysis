@@ -2,6 +2,17 @@
 
 This repository contains the analysis and visualization of coupon acceptance data from Amazon. The goal is to distinguish between customers who accepted a driving coupon versus those that did not.
 
+## Table of Contents
+- [Project Description](#project-description)
+- [Context](#context)
+- [Data Description](#data-description)
+- [Analysis and Results](#analysis-and-results)
+- [Next Steps and Recommendations](#next-steps-and-recommendations)
+- [Getting Started](#getting-started)
+
+## Project Description
+The goal of this project is to use visualizations and probability distributions to distinguish between customers who accepted a driving coupon versus those that did not.
+
 ## Context
 Imagine driving through town and a coupon is delivered to your cell phone for a restaurant near where you are driving. Would you accept that coupon and take a short detour to the restaurant? Would you accept the coupon but use it on a subsequent trip? Would you ignore the coupon entirely? What if the coupon was for a bar instead of a restaurant? What about a coffee house? Would you accept a bar coupon with a minor passenger in the car? What about the weather? Would weather impact the rate of acceptance? What about the time of day?
 
