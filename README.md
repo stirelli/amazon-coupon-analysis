@@ -2,15 +2,8 @@
 
 This repository contains the analysis and visualization of coupon acceptance data from Amazon. The goal is to distinguish between customers who accepted a driving coupon versus those that did not.
 
-## Project Structure
-
-- `data/`: Contains the dataset `coupons.csv`.
-- `prompt.ipynb`: The Jupyter notebook with all the analysis and visualizations.
-- `requirements.txt`: Lists the Python dependencies for this project.
-
 ## Context
-
-Imagine driving through town and a coupon is delivered to your cell phone for a restaraunt near where you are driving. Would you accept that coupon and take a short detour to the restaraunt? Would you accept the coupon but use it on a sunbsequent trip? Would you ignore the coupon entirely? What if the coupon was for a bar instead of a restaraunt? What about a coffee house? Would you accept a bar coupon with a minor passenger in the car? What about if it was just you and your partner in the car? Would weather impact the rate of acceptance? What about the time of day?
+Imagine driving through town and a coupon is delivered to your cell phone for a restaurant near where you are driving. Would you accept that coupon and take a short detour to the restaurant? Would you accept the coupon but use it on a subsequent trip? Would you ignore the coupon entirely? What if the coupon was for a bar instead of a restaurant? What about a coffee house? Would you accept a bar coupon with a minor passenger in the car? What about the weather? Would weather impact the rate of acceptance? What about the time of day?
 
 Obviously, proximity to the business is a factor on whether the coupon is delivered to the driver or not, but what are the factors that determine whether a driver accepts the coupon once it is delivered to them? How would you determine whether a driver is likely to accept a coupon?
 
@@ -20,11 +13,11 @@ The goal of this project is to use what you know about visualizations and probab
 
 ## Data
 
-This data comes to us from the UCI Machine Learning repository and was collected via a survey on Amazon Mechanical Turk. The survey describes different driving scenarios including the destination, current time, weather, passenger, etc., and then asks the person whether they will accept the coupon if he is the driver. Answers that the user will drive there “right away” or “later before the coupon expires” are labeled as “Y = 1”; and answers “no, I do not want the coupon” are labeled as “Y = 0”. There are five different types of coupons -- less expensive restaurants (under $20), coffee houses, carry out & take away, bar, and more expensive restaurants ($20–$50).
+This data comes to us from the UCI Machine Learning repository and was collected via a survey on Amazon Mechanical Turk. The survey describes different driving scenarios including the destination, current time, weather, passenger, etc., and then asks people whether they will accept the coupon if they are the driver. Answers given that the users will drive there “right away” or “later before the coupon expires” are labeled as “Y = 1”; and answers “no, I do not want the coupon” are labeled as “Y = 0”. There are five different types of coupons -- less expensive restaurants (under $20), coffee houses, carry out and take away, bars, and more expensive restaurants ($20–$50).
 
 ## Deliverables
 
-Your final product should be a brief report that highlights the differences between customers who did and did not accept the coupons. To explore the data you will utilize your knowledge of plotting, statistical summaries, and visualization using Python. You will publish your findings in a public facing GitHub repository as your first portfolio piece.
+Your final product should be a brief report that highlights the differences between customers who did and did not accept the coupons. To explore the data you will utilize your knowledge of plotting, statistical summaries, and visualization using Python. You will publish your findings in a public-facing GitHub repository as your first portfolio piece.
 
 ## Data Description
 
@@ -122,11 +115,7 @@ Make sure you have Python installed on your local machine. You can download it f
 
 3. Run the cells in the notebook to see the analysis and visualizations.
 
-### Notes
-
-- Ensure you have an active internet connection to fetch any additional dependencies or data if required.
-- Use the virtual environment to avoid any conflicts with other projects or system-wide libraries.
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
+### Next Steps and Recommendations
+- Further analysis could be conducted on other coupon types to see if similar patterns hold.
+- Implement targeted marketing strategies based on the findings to increase coupon acceptance rates.
+- Explore additional demographic factors that might influence coupon acceptance.
