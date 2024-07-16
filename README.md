@@ -3,6 +3,7 @@
 This repository contains the analysis and visualization of coupon acceptance data from Amazon. The goal is to distinguish between customers who accepted a driving coupon versus those that did not.
 
 ## Table of Contents
+- [View the Jupyter Notebook](prompt.ipynb)
 - [Project Description](#project-description)
 - [Context](#context)
 - [Overview](#overview)
